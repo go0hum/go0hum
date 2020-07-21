@@ -20,7 +20,7 @@
 </p>
       </td>   
      <td>
-      <img src="https://user-images.githubusercontent.com/25087769/87176682-1f7ef480-c2e3-11ea-9b1d-076f2c8568b2.jpg" width="500">
+      <img src="https://github.com/humbertosantosmx/humbertosantosmx/blob/master/img/humberto.jpg" width="500">
      </td>
    </tr>
 </table>
