@@ -24,5 +24,3 @@
      </td>
    </tr>
 </table>
-
-⭐️ From [mustafadalga](https://github.com/mustafadalga)
