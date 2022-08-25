@@ -2,7 +2,7 @@
   <tr>
     <td>
       <h1> Who I Am ? </h1>
-      <b>Im a Web developer since 2004, I learn code day of day. I Like Golang and PHP, Php worker. I learn React, flutter and go in the night.</b>
+      <b>Im a Web developer since 2004, I learn code day of day. I Like Golang and PHP, Php and swift worker. I learn Swift and go now.</b>
       <ul>
         <li>Software Developer - Free Software and Open Source Developer</li>
         <li>My personal page is <a href="https://humbertosantosmx" alt="Humberto Santos">Humberto Santos MX</a></li>
